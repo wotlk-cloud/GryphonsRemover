@@ -1,0 +1,5 @@
+## Interface: 30300
+## Title: Gryphons Remover
+## Version: 3.3
+## Notes: Simply removes the Gryphons
+GryphonsRemover.xml
